@@ -53,7 +53,7 @@ The model is trained on a dataset of medicinal plant leaves. The dataset directo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plant-leaf-identification-model.git
+   git clone https://github.com/maveenbalaji/plant-leaf-dection-ml-model.git
    ```
 
 2. Navigate to the project directory:
