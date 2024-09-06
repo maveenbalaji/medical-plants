@@ -99,10 +99,4 @@ print(f'The predicted class is: {predicted_class_label}')
 - **Model Fine-Tuning**: Experiment with different architectures and hyperparameters.
 - **User Interface**: Develop a mobile or web app for interactive plant identification.
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust any sections based on your project’s specifics or add additional details as needed!
