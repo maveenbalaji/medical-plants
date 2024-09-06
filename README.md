@@ -1,7 +1,3 @@
-Here’s a comprehensive README for your ML model project for plant leaf identification:
-
----
-
 # Plant Leaf Identification Model
 
 **Overview**
